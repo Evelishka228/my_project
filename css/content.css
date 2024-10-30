@@ -1,0 +1,809 @@
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+.screen{
+    width: 1440px; 
+    margin: 0 auto; 
+
+}
+.firstpage{
+    width: 100%;  
+}
+img{
+    width: 100%;  
+}
+.firstpagetext1{
+    width: 100%;  
+    margin-left: 27%;
+    margin-top: -130px;
+}
+.firstpagetext2{
+    width: 100%;  
+    margin-left: 55.3%;
+    margin-top: -51px;
+}
+.firstpagetext3{
+    width: 100%;  
+    margin-left: 45%;
+    margin-top: -165px;
+}
+.secondpage{
+    width: 1440px;
+    height: 275px;
+    margin-top: 200px;
+    background-image:url(../img/страница\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .secondpagemain{
+    width: 1440px;
+    height: 650px;
+    margin-top: 15px;
+    background-image:url(../img/страница\ 3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.secondpagemaintext1{
+    width: 100%;  
+    margin-left: 20%;
+    margin-top: -618px;
+}  
+.secondpagemaintext2{
+    width: 100%;  
+    margin-left: 58.5%;
+    margin-top: -85px;
+}  
+.cifra0{
+    width: 100%;  
+    margin-left: 29.8%;
+    margin-top: 375px;
+}
+.cifra1{
+    width: 100%;  
+    margin-left: 24.5%;
+    margin-top: -83px;
+}
+.cifra2{
+    width: 100%;  
+    margin-left: 20.2%;
+    margin-top: -127px;
+}
+.cifra3{
+    width: 100%;  
+    margin-left: 18.2%;
+    margin-top: -140px;
+}
+.cifra4{
+    width: 100%;  
+    margin-left: 19%;
+    margin-top: -152px;
+}
+.cifra5{
+    width: 100%;  
+    margin-left: 23.7%;
+    margin-top: -125px;
+}
+.cifra6{
+    width: 100%;  
+    margin-left: 29%;
+    margin-top: -91px;
+}
+.cifra7{
+    width: 100%;  
+    margin-left: 34.7%;
+    margin-top: -52px;
+}
+.cifra8{
+    width: 100%;  
+    margin-left: 38.9%;
+    margin-top: -15px;
+}
+.cifra9{
+    width: 100%;  
+    margin-left: 41.3%;
+    margin-top: 10px;
+}
+.cifra10{
+    width: 100%;  
+    margin-left: 38.8%;
+    margin-top: 20px;
+}
+.znak1{
+    width: 100%;  
+    margin-left: 63.2%;
+    margin-top: 20px;
+}
+.znak2{
+    width: 100%; 
+    margin-left: 59%; 
+    margin-top: -120px;
+}
+.znak3{
+    width: 100%; 
+    margin-left: 57%; 
+    margin-top: -155px;
+}
+.znak4{
+    width: 100%; 
+    margin-left: 57.5%; 
+    margin-top: -145px;
+}
+.znak5{
+    width: 100%; 
+    margin-left: 62%; 
+    margin-top: -136px;
+}
+.znak6{
+    width: 100%; 
+    margin-left: 67.5%; 
+    margin-top: -88px;
+}
+.znak7{
+    width: 100%; 
+    margin-left: 72.5%; 
+    margin-top: -55px;
+}
+.znak8{
+    width: 100%; 
+    margin-left: 77%; 
+    margin-top: -60px;
+}
+.znak9{
+    width: 100%; 
+    margin-left: 80.5%; 
+    margin-top: 10px;
+}
+.znak10{
+    width: 100%; 
+    margin-left: 77.4%; 
+    margin-top: 25px;
+}
+.razdel{
+    width: 1440px;
+    height: 70px;
+    margin-top: 177px;
+    background-image:url(../img/разделение.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.razdeltext{
+    width: 100%;  
+    margin-top: -55px;
+    text-align: center;
+}
+.details1{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+.detailsimg{
+    width: 22%;
+}
+.details2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+.details2img1{
+    width: 13%;
+    margin-left: 17%;
+}
+.details2img2{
+    width: 13%;
+    margin-left: 12%;
+}
+.details2img3{
+    width: 13%;
+    margin-left: 12% ;
+}
+.phrase1{
+    margin-top: -51%;
+    margin-left: 6.4%;
+}
+.phrase2{
+    margin-top: -10.5%;
+    margin-left: 31.7%;
+}
+.phrase3{
+    margin-top: -10%;
+    margin-left: 57.3%;
+}
+.phrase4{
+    margin-top: -10.2%;
+    margin-left: 81.6%;
+}
+.phrase11{
+    margin-top: 2.3%;
+    margin-left: 8.5%;
+}
+.phrase22{
+    margin-top: -1.6%;
+    margin-left: 33.2%;
+}
+.phrase33{
+    margin-top: -1.5%;
+    margin-left: 56.8%;
+}
+.phrase44{
+    margin-top: -1.5%;
+    margin-left: 82.4%;
+}
+.ramka{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 25px;
+}
+.ramkaimg1{
+    width: 8.7%;
+    margin-top: -2%;
+    margin-left: 6.2%;
+}
+.ramkaimg2{
+    width: 8.7%;
+    margin-top: -2%;
+    margin-left: 16.5%;
+}
+.ramkaimg3{
+    width: 8.7%;
+    margin-top: -2%;
+    margin-left: 16.3%;
+}
+.ramkaimg4{
+    width: 8.7%;
+    margin-top: -10.8%;
+    margin-left: 81.4%;
+}
+.table1{
+    width: 100%;
+    margin-left: 7.2%;
+    margin-top: -8.3%;
+}
+.table2{
+    width: 100%;
+    margin-left: 32.4%;
+    margin-top: -3.1%;
+}
+.table3{
+    width: 100%;
+    margin-left: 57.4%;
+    margin-top: -3%;
+}
+.table4{
+    width: 100%;
+    margin-left: 82.4%;
+    margin-top: -3.1%;
+}
+.tablichka1{
+    width: 100%;
+    margin-left: 7.5%;
+    margin-top: 0.8%;
+}
+.tablichka2{
+    width: 100%;
+    margin-left: 32.7%;
+    margin-top: -1.5%;
+}
+.tablichka3{
+    width: 100%;
+    margin-left: 57.8%;
+    margin-top: -1.3%;
+}
+.tablichka4{
+    width: 100%;
+    margin-left: 82.7%;
+    margin-top: -1.3%;
+}
+.nadpis1{
+    width: 100%;
+    transform: rotate(14deg);
+    margin-left: 18.5%;
+    margin-top: 26.5%;
+}
+.nadpis2{
+    width: 100%;
+    transform: rotate(14deg);
+    margin-left: 18%;
+    margin-top: 0%;
+}
+.nadpis3{
+    width: 100%;
+    transform: rotate(14deg);
+    margin-left: 43.4%;
+    margin-top: -4.5%;
+}
+.nadpis4{
+    width: 100%;
+    transform: rotate(14deg);
+    margin-left: 67.5%;
+    margin-top: -2.9%;
+}
+.fourpage{
+    width: 1440px;
+    height: 950px;
+    margin-top: -30px;
+    background-image:url(../img/страница\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .fourpage1{
+        width: 211.8px;
+        margin-left: 35px;
+        margin-top: -65.95%;
+    }
+    .fourpagetext1{
+        width: 100%;
+        margin-left: 20.5%;
+        margin-top: -61.5%;
+    }
+    .fourpagetext2{
+        width: 100%;
+        margin-left: 20.5%;
+        margin-top: 1%;
+    }
+    .fivepage{
+        width: 1440px;
+        height: 950px;
+        margin-top: 505px;
+        background-image:url(../img/страница\ 5.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
+    .fivepage1{
+            width: 1000px;  
+            margin-left: 30.6% ;
+            margin-top: -66.3%;
+        }
+    .fivepage2{
+            width: 100%;  
+            margin-left: 2.5% ;
+            margin-top: -5.7%;
+        }
+       .fivepagetext1{
+        width: 100%;  
+        margin-left: 6.9%;
+        margin-top: 4.1%;
+       }
+       .fivepagetext2{
+        width: 100%;  
+        margin-left: 13.7%;
+        margin-top: -3.5%;
+       }
+       .fivepagetext3{
+        width: 100%;  
+        margin-left: 51.6%;
+        margin-top: -3.9%;
+       }
+       .fivepagetext4{
+        width: 100%;  
+        margin-left: 72.9%;
+        margin-top: -3.5%;
+       }
+       .fivepagetext5{
+        width: 100%;  
+        margin-left: 6.6%;
+        margin-top: 5.5%;
+       }
+       .fivepagetext6{
+        width: 100%;  
+        margin-left: 13.7%;
+        margin-top: -3.5%;
+       }
+       .fivepagetext7{
+        width: 100%;  
+        margin-left: 50.5%;
+        margin-top: -3.8%;
+       }
+       .fivepagetext8{
+        width: 100%;  
+        margin-left: 72.5%;
+        margin-top: -3.8%;
+       }
+       .fivepagetext9{
+        width: 100%;  
+        margin-left: 6.9%;
+        margin-top: 5.8%;
+       }
+       .fivepagetext10{
+        width: 100%;  
+        margin-left: 13.7%;
+        margin-top: -3.5%;
+       }
+       .fivepagetext11{
+        width: 100%;  
+        margin-left: 50.3%;
+        margin-top: -3.9%;
+       }
+       .fivepagetext12{
+        width: 100%;  
+        margin-left: 72.2%;
+        margin-top: -3.5%;
+       }
+       .fivepagetext13{
+        width: 100%;  
+        margin-left: 6.5%;
+        margin-top: 5.7%;
+       }
+       .fivepagetext14{
+        width: 100%;  
+        margin-left: 13.7%;
+        margin-top: -3.8%;
+       }
+       .fivepagetext15{
+        width: 100%;  
+        margin-left: 49.5%;
+        margin-top: -3.7%;
+       }
+       .fivepagetext16{
+        width: 100%;  
+        margin-left: 74.5%;
+        margin-top: -3.7%;
+       }
+       .fivepagetext17{
+        width: 100%;  
+        margin-left: 6.9%;
+        margin-top: 5.3%;
+       }
+       .fivepagetext18{
+        width: 100%;  
+        margin-left: 13.7%;
+        margin-top: -3.5%;
+       }
+       .fivepagetext19{
+        width: 100%;  
+        margin-left: 50.5%;
+        margin-top: -3.8%;
+       }
+       .fivepagetext20{
+        width: 100%;  
+        margin-left: 71.8%;
+        margin-top: -3.7%;
+       }
+       .fivepagetext21{
+        width: 100%;  
+        margin-left: 6.6%;
+        margin-top: 5.5%;
+       }
+       .fivepagetext22{
+        width: 100%;  
+        margin-left: 13.7%;
+        margin-top: -3.6%;
+       }
+       .fivepagetext23{
+        width: 100%;  
+        margin-left: 50.5%;
+        margin-top: -3.6%;
+       }
+       .fivepagetext24{
+        width: 100%;  
+        margin-left: 69.7%;
+        margin-top: -3.4%;
+       }
+       .sixpage{
+        width: 1440px;
+        height: 480px;
+        margin-top: 65px;
+        background-image:url(../img/страница\ 6.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
+        .sixpagetext1{
+            width: 100%;  
+            margin-left: 43.5%;
+            margin-top: -31.5%;
+        }
+        .sixpagetext2{
+            width: 100%;  
+            margin-left: 3%;
+            margin-top: -0%;
+        }
+        .sevenpage{
+            width: 1440px;
+            height: 290px;
+            margin-top: 50px;
+            background-image:url(../img/страница\ 7.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            }
+            .sevenpagetext3{
+                width: 100%;  
+                text-align: center;
+                margin-top: -16.5%;
+            }
+            .sevenpage2{
+               width: 100%;
+               align-items: center;
+               margin-top: 190px;
+            }
+            .sevenpagetext4{
+                width: 100%;
+                margin-top: -10.8%;
+                margin-left: 25%;
+            }
+            .sevenpagetext5{
+                width: 100%;
+                margin-top: -0.2%;
+                margin-left: 38.2%;
+            }
+            .eightpage{
+                width: 1440px;
+                height: 312px;
+                margin-top: 45px;
+                background-image:url(../img/страница\ 8.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                }
+               .eightpagetext1{
+                width: 100%;
+                margin-left: 5%;
+                margin-top: -18.4%;
+               }
+               .eightpagetext2{
+                width: 100%;
+                margin-left: 19%;
+                margin-top: -21.65%;
+               }
+               .eightpagetext3{
+                width: 100%;
+                margin-left: 38%;
+                margin-top: -21.5%;
+               }
+               .eightpagetext4{
+                width: 100%;
+                margin-left: 51%;
+                margin-top: -21.2%;
+               }
+               .eightpagetext5{
+                width: 100%;
+                margin-left: 68.8%;
+                margin-top: -21.75%;
+               }
+               .eightpagetext6{
+                width: 100%;
+                margin-left: 81%;
+                margin-top: -21.45%;
+               }
+               .eightpage1{
+                width: 6.85%;
+                margin-left: 8.44%;
+                margin-top: -13.28%;
+               }
+               .eightpage2{
+                width: 11.2%;
+                margin-left: 20.7%;
+                margin-top: -8.1%;
+               }
+               .eightpage3{
+                width: 6.5%;
+                margin-left: 41.65%;
+                margin-top: -7.86%;
+               } 
+               .eightpage4{
+                width: 10.65%;
+                margin-left: 53.1%;
+                margin-top: -7.3%;
+               } 
+               .eightpage5{
+                width: 5.3%;
+                margin-left: 72.85%;
+                margin-top: -8.5%;
+               } 
+               .eightpage6{
+                width: 8.7%;
+                margin-left: 83.58%;
+                margin-top: -7.67%;
+               } 
+               .razdelenie{
+                width: 1440px;
+                height: 100px;
+                margin-top: 20px;
+                background-image:url(../img/плашка\ 2.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                }
+                .razdelenietext{
+                width: 100%;
+                text-align: center;
+                margin-top: -6.5%;
+                }
+                .ninepage{
+                 width: 1440px;
+                 height: 700px;
+                 margin-top: 20px;
+                 background-image:url(../img/страница\ 9.png);
+                 background-repeat: no-repeat;
+                 background-size: cover;
+                }
+                .ninepagetext1{
+                width:30%;
+                margin-top: -34.5%;
+                margin-left: 30%;
+                }
+                .ninepagetext2{
+                width:100%;
+                margin-top: -29.2%;
+                margin-left: 47.75%;
+                }
+                .ninepagetext3{
+                    width:100%;
+                    margin-top: -19.4%;
+                    margin-left: 71.4%;
+                    }
+                    .ninepage1{
+                        width:16%;
+                        height:30%;
+                        margin-top: -35%;
+                        margin-left: 2.5%;
+                        }
+                .ninepagetext4{
+                    width:100%;
+                    margin-top: -58%;
+                    margin-left: 47%;
+                    transform: rotate(-8deg);
+                }
+                .ninepagetext5{
+                    width:100%;
+                    margin-top: 15%;
+                    margin-left: 44%;
+                    transform: rotate(6deg);
+                }
+                .ninepagetext6{
+                    width:100%;
+                    margin-top: -26%;
+                    margin-left: 35%;
+                    transform: rotate(-6deg);
+                }
+                .ninepagetext7{
+                    width:100%;
+                    margin-top: 38%;
+                    margin-left: 21%;
+                    transform: rotate(35deg);
+                }
+                .ninepagetext8{
+                    width:100%;
+                    margin-top: -13%;
+                    margin-left: 16%;
+                    transform: rotate(30deg);
+                }
+                .ninepagetext9{
+                    width:100%;
+                    margin-top: -35%;
+                    margin-left: 19%;
+                    transform: rotate(-25deg);
+                }
+                .ninepagetext10{
+                    width:100%;
+                    margin-top: 55.5%;
+                    margin-left: 15%;
+                    transform: rotate(40deg);
+                }
+                .ninepagetext11{
+                    width:100%;
+                    margin-top: -6%;
+                    margin-left: 17%;
+                    transform: rotate(25deg);
+                }
+                .ninepagetext12{
+                    width:100%;
+                    margin-top: -27%;
+                    margin-left: 27%;
+                    transform: rotate(-15deg);
+                }
+                .ninepagetext13{
+                    width:100%;
+                    margin-top: 15%;
+                    margin-left: 37%;
+                    transform: rotate(15deg);
+                }
+                .ninepagetext14{
+                    width:100%;
+                    margin-top: -28%;
+                    margin-left: 49%;
+                    transform: rotate(-8deg);
+                }
+                .ninepagetext15{
+                    width:100%;
+                    margin-top:22%;
+                    margin-left: 47%;
+                    transform: rotate(10deg);
+                }
+                .ninepagetext16{
+                    width:100%;
+                    margin-top:-32%;
+                    margin-left: 53%;
+                    transform: rotate(-15deg);
+                }
+                .ninepagetext17{
+                    width:100%;
+                    margin-top:35%;
+                    margin-left: 59%;
+                    transform: rotate(29deg);
+                }
+                .ninepagetext18{
+                    width:100%;
+                    margin-top:-23%;
+                    margin-left: 70%;
+                    transform: rotate(14deg);
+                }
+                .ninepagetext19{
+                    width:100%;
+                    margin-top:-23%;
+                    margin-left: 79%;
+                    transform: rotate(-14deg);
+                }
+                .ninepagetext20{
+                    width:100%;
+                    margin-top:20%;
+                    margin-left: 88%;
+                    transform: rotate(10deg);
+                }
+                .ninepagetext21{
+                    width:100%;
+                    margin-top:-10%;
+                    margin-left: 88%;
+                    transform: rotate(18deg);
+                }
+                .ninepagetext22{
+                    width:100%;
+                    margin-top:-18%;
+                    margin-left: 95%;
+                    transform: rotate(10deg);
+                }
+                .ninepagetext23{
+                    width:100%;
+                    margin-top:-10%;
+                    margin-left: 88%;
+                    transform: rotate(10deg);
+                }
+                .ninepagetext24{
+                    width:100%;
+                    margin-top:-17%;
+                    margin-left: 90%;
+                    transform: rotate(10deg);
+                }
+                .ninepagetext25{
+                    width:100%;
+                    margin-top:6%;
+                    margin-left: 68%;
+                    transform: rotate(25deg);
+                }
+                .ninepagetext26{
+                    width:100%;
+                    margin-top:-43%;
+                    margin-left: 81%;
+                    transform: rotate(-15deg);
+                }
+                .ninepagetext27{
+                    width:100%;
+                    margin-top:25%;
+                    margin-left: 62%;
+                    transform: rotate(18deg);
+                }
+                .tenpage{
+                    width: 1440px;
+                    height: 500px;
+                    margin-top: 32.6%;
+                    background-image:url(../img/конец.png);
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                   }
+                   .tenpages1{
+                    width:1441px;
+                    margin-top:-34.8%;
+                   }
+                   .tenpagelogo{
+                    width:22%;
+                    margin-top: 11%;
+                    margin-left: 77%;
+                   }
+                   .tenpagetext1{
+                    width:100%;
+                    margin-top: -8%;
+                    margin-left: 1.5%;
+                   }
+                   .tenpagetext2{
+                    width:100%;
+                    margin-top: 0%;
+                    margin-left: 1.5%;
+                   }
